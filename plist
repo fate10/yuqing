@@ -11,7 +11,7 @@
                     <key>kind</key>  
                     <string>software-package</string>  
                     <key>url</key>
-                    <string>http://yf-rp-spinal01.yf01.baidu.com:8088/zhengwu/zhengwu/Download/ipa</string>  
+                    <string>http://yuqing.baidu.com/zhengwu/zhengwu/Download/ipa</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>  
                     <true/>  
                     <key>url</key>  
-                    <string>http://cp01-rdqa04-dev104.cp01.baidu.com:8910/zhengwu/static/icon57.png</string>  
+                    <string>http://yuqing.baidu.com/zhengwu/static/icon/icon57.png</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>  
                     <true/>  
                     <key>url</key>  
-                    <string>http://cp01-rdqa04-dev104.cp01.baidu.com:8910/zhengwu/static/icon512.png</string>  
+                    <string>http://yuqing.baidu.com/zhengwu/static/icon/icon512.png</string>  
                 </dict>  
             </array>  
             <key>metadata</key>  
